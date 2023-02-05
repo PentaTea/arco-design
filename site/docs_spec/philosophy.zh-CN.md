@@ -71,7 +71,7 @@ ArcoDesign
 
 ## 错误帮助
 
-错误信息应该用语言表达而不是比如404的代码。需要准确地反应问题所在并提出建设性的解决方案, 帮助用户从错误中恢复将损失降到最低, 提供详尽的说明文字和指导方向。
+错误信息应该用语言表达而不是比如404的代码。需要准确地反映问题所在并提出建设性的解决方案, 帮助用户从错误中恢复将损失降到最低, 提供详尽的说明文字和指导方向。
 
 <div class="markdown-img-layout-2">
   <img src="https://p1-arco.byteimg.com/tos-cn-i-uwbnlip3yd/cf75415b29604fbda0a3c0f766e437cd~tplv-uwbnlip3yd-image.image" />
